@@ -4,7 +4,10 @@ Secure Banking System REST API built with Flask, SQLite, JWT authentication and 
 
 The API provides user authentication, bank account management, deposits, withdrawals, money transfers, transaction history and admin management.
 
----
+## 🌐 Live API
+
+Live Backend:
+https://banking-system-api-yq33.onrender.com/
 
 ## 🚀 Technologies Used
 

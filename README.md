@@ -1,6 +1,6 @@
 # 🏦 Banking System REST API
 
-A secure and simple Banking System REST API built using Python, Flask and SQLite.
+Secure Banking System REST API built with Flask, SQLite, JWT authentication and bcrypt.
 
 The API provides user authentication, bank account management, deposits, withdrawals, money transfers, transaction history and admin management.
 
